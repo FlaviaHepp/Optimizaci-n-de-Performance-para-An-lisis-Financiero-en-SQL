@@ -6,7 +6,7 @@ Este proyecto implementa índices compuestos estratégicos sobre las tablas clav
 
 El enfoque está orientado a escenarios de análisis cuantitativo, donde la latencia y el rendimiento de consultas históricas y recientes son críticos.
 
-Problema que Resuelve
+## 📍Problema que Resuelve
 
 Las consultas financieras suelen compartir estas características:
 - Filtrado frecuente por ticker_id
